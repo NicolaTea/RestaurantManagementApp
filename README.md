@@ -1,5 +1,5 @@
 
-~RESTAURANT_MANAGEMENT_APP~
+RESTAURANT_MANAGEMENT_APP
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
 Dieses Projekt ist eine Anwendung zur Verwaltung der Speisekarte und Bestellungen eines Restaurants. 
